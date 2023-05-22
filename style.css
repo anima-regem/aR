@@ -1,0 +1,11 @@
+.iframe-container {
+    width: 100%;
+    aspect-ratio: 16/9; /* Adjust this value to your desired aspect ratio */
+    overflow: hidden;
+  }
+  
+  .iframe-container iframe {
+    width: 100%;
+    height: 100%;
+  }
+  
